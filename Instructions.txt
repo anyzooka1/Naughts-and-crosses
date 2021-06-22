@@ -1,0 +1,4 @@
+1. Create a new blank C# console app
+2. Copy all files from within the 'COPY THESE FILES' folder, and paste them into 
+   the folder of your new console app, that contains the new Program.cs file.
+3. Run it!
